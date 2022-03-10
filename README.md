@@ -3,7 +3,7 @@ Amiga 500 Floppy LED to Display IDE Activity too
 
 UNTESTED!!
 
-Connect a fly lead from IDE pin 39 /Active to J4 if U1 (74HCT2G14) is not populated, otherwise to J3
+Connect a fly-lead from IDE pin 39 /Active to J4 if U1 (74HCT2G14) is not populated, otherwise to J3
 
 <a href="images/A500_IDE_LED_board_pic1.png">
 <img src="images/A500_IDE_LED_board_pic1.png" width="500" height="335">
@@ -33,3 +33,14 @@ J3 | PinHeader_1x01_P2.54mm | Single pin |
 J4 | PinHeader_1x01_P2.54mm | Single pin |
 
 ***
+
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
