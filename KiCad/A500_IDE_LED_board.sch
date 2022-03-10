@@ -245,7 +245,7 @@ U 1 1 622D50B2
 P 4300 3150
 F 0 "J4" H 4380 3146 50  0000 L CNN
 F 1 "Conn_01x01" H 4380 3101 50  0001 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 4300 3150 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal" H 4300 3150 50  0001 C CNN
 F 3 "~" H 4300 3150 50  0001 C CNN
 	1    4300 3150
 	-1   0    0    1   
