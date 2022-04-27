@@ -16,6 +16,47 @@ Connect a fly-lead from IDE pin 39 /Active to J4 if U1 (74HCT2G14) is not popula
 <img src="images/A500_IDE_LED_board_pic3.png" width="300" height="223">
 </a>
 
+***
+
+
+<a href="images/A500_IDE_LED_board_pic4.jpg">
+<img src="images/A500_IDE_LED_board_pic4.jpg" width="256" height="192">
+</a>
+<a href="images/A500_IDE_LED_board_pic5.jpg">
+<img src="images/A500_IDE_LED_board_pic5.jpg" width="256" height="192">
+</a>
+<a href="images/A500_IDE_LED_board_pic6.jpg">
+<img src="images/A500_IDE_LED_board_pic6.jpg" width="256" height="192">
+</a>
+
+***
+
+<a href="images/A500_IDE_LED_board_pic7.jpg">
+<img src="images/A500_IDE_LED_board_pic7.jpg" width="256" height="192">
+</a>
+<a href="images/A500_IDE_LED_board_pic8.jpg">
+<img src="images/A500_IDE_LED_board_pic8.jpg" width="256" height="192">
+</a>
+<a href="images/A500_IDE_LED_board_pic9.jpg">
+<img src="images/A500_IDE_LED_board_pic9.jpg" width="256" height="192">
+</a>
+
+***
+
+<a href="images/A500_IDE_LED_board_pic11.jpg">
+<img src="images/A500_IDE_LED_board_pic11.jpg" width="512" height="384">
+</a>
+<a href="images/A500_IDE_LED_board_pic10.jpg">
+<img src="images/A500_IDE_LED_board_pic10.jpg" width="256" height="192">
+</a>
+
+***
+
+Video: <br />
+https://drive.google.com/file/d/1npfdus0QacBQunZ5_mPXeUmgsU1OCT5R/view?usp=sharing
+
+
+***
 
 
 BOM Rev. A
