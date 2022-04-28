@@ -53,7 +53,7 @@ Connect a fly-lead from IDE pin 39 /Active
 ***
 
 Video: <br />
-https://drive.google.com/file/d/1npfdus0QacBQunZ5_mPXeUmgsU1OCT5R/view?usp=sharing
+https://drive.google.com/file/d/1Ml881xZoqoM8HT1IZ48qTFUnri6tXyhQ/view?usp=sharing
 
 
 ***
