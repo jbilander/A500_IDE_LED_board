@@ -58,6 +58,13 @@ https://drive.google.com/file/d/1Ml881xZoqoM8HT1IZ48qTFUnri6tXyhQ/view?usp=shari
 
 ***
 
+The individual pins in the pin-strip can be moved/pushed flush with the PCB holes before soldering. This is not necessary to do connection wise but it looks kind of nice when the bare pins are about the same length as the keyboard header on the Motherboard:
+
+<a href="images/A500_IDE_LED_board_pic12.jpg">
+<img src="images/A500_IDE_LED_board_pic12.jpg" width="512" height="384">
+</a>
+
+***
 
 BOM Rev. A
 ---------
